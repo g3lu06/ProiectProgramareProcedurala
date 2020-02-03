@@ -6,7 +6,6 @@ public class Exercitiul2 {
 		double d=2.95;
 		int i=4;
 		System.out.println(++d>i?d:i);
-
 	}
 
 }
