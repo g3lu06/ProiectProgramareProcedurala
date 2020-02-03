@@ -8,6 +8,7 @@ public class Exercitiul3 {
 			System.out.println(a);
 		else
 			System.out.println(a);
+		
 	}
 
 }

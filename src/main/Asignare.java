@@ -7,5 +7,6 @@ public class Asignare {
 		int b = (a=2)*a;
 		int c = b*(b=5);
 		System.out.println("a=" + a + ", b=" + b + ", c=" +c);
+		
 		}
 }

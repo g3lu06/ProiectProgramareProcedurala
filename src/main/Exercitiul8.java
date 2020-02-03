@@ -28,6 +28,7 @@ public class Exercitiul8 {
 			break;
 			default:
 				System.out.println("Valoarea trebuie sa fie cuprinsa intre 1 si 7");
+				
 		}
 
 	}

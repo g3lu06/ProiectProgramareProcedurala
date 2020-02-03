@@ -14,6 +14,7 @@ public class Mediu {
 		System.out.println(x);
 		x=3+z; //y este necunoscut -> deci nu se poate face aceasta operatie
 		System.out.println(x);
+		
 	}
 
 }

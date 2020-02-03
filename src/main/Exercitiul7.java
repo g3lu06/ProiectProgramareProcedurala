@@ -8,6 +8,7 @@ public class Exercitiul7 {
 			System.out.println("Numarul "+numar+" este par");
 		else
 			System.out.println("Numarul "+numar+" este impar");
+		
 	}
 
 }

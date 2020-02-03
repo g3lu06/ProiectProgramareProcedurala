@@ -10,5 +10,6 @@ public class Exercitiul6 {
 		if (c<min)
 			min = c;
 		System.out.println("minim: " +min);
+		
 	}
 }

@@ -8,6 +8,7 @@ public class Exercitiul4 {
 			suma +=suma+i;
 		}
 		System.out.print("Suma este:"+suma);
+		
 	}
 
 }

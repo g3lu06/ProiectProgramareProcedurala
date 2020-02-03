@@ -11,6 +11,7 @@ public class Exercitiul5 {
 				random = random*1;
 			}
 		System.out.println(n+"!="+random);
+		
 	}
 
 }
